@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: bd798aa1192d98f4ea4871e074a27042
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - pCanvasMainMenu: {instanceID: 0}
+  - pSetupScreen: {instanceID: 0}
+  - pOptionsScreen: {instanceID: 0}
+  - pInGame: {instanceID: 0}
+  - pPlayer: {instanceID: 0}
+  - musicMixer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
